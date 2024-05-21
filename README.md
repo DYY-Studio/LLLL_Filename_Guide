@@ -65,7 +65,7 @@
 | :----------------------- | :---- | :---- |
 | image_card_frame | 卡面外框 | 290x394 |
 | image_card_frame_small | 卡面外框(小) | 192x264<br>59x115 |
-| image_card_full | 完整卡面 | |
+| image_card_full | 完整卡面 | 1728x1120 |
 | image_card_specialappeal | ? | |
 | image_card_middle_vertical | 卡面中间部分(竖)<br>Live时显示的卡面 | |
 | image_card_noget | 未获得DR卡时<br>DR界面的DR卡图标 | |
